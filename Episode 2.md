@@ -15,7 +15,7 @@
 
 ### Non Volatile data  :	
 
-​		 it's the type of data that doesn't requires power to maintain the stored information 
+​		 it's the type of data that doesn't require power to maintain the stored information 
 
 #### Example:
 
@@ -30,7 +30,7 @@
 
 ### Static AKA (Dead box acquisition):
 
-​	Capturing the data without running the OS by connecting the Hard disk to other device or using tools like "Write blocker"
+​	Capturing the data without running the OS by connecting the Hard disk to other devices or using tools like "Write blocker"
 
 ### Local:   
 
@@ -44,8 +44,8 @@
 
 ### Images:
 
-- E01 : Stores the metadata of the files , also does a compression to make the size smaller and easy to move 
-- Raw: just a copy of the data , and you will need to save the metadata into a text file beside the data that will help you understand when the file was created or accessed and create a timeline for the attack 
+- E01: Stores the metadata of the files, also does a compression to make the size smaller and easy to move 
+- Raw: just a copy of the data, and you will need to save the metadata into a text file beside the data that will help you understand when the file was created or accessed and create a timeline for the attack 
 
 ### Containers:
 
@@ -55,5 +55,5 @@
 
 ## Data verification 
 
-​	Hashing is the best way to verify the acquired image any change in the data will gave a different hash
+​	Hashing is the best way to verify the acquired image any change in the data will give a different hash
 some of the acquisition tools save the hashes in the image after completing the acquisition so it makes it easy for you to verify the data and make sure nothing got changed or missed while the acquisition
