@@ -6,7 +6,7 @@
 
 ### Volatile Data :	
 
-### 	 it's the type of data that requires power to maintain the stored information and once the power source disconnected all the data 		     	gets wiped with no way to recover it  
+ ​	 it's the type of data that requires power to maintain the stored information and once the power source disconnected all the data gets wiped with no way to recover it  
 
 #### Example :
 
